@@ -85,7 +85,7 @@ function About() {
                 </div>
               </div>
               <div className='border-l-4 border-red-600 pl-4'>
-                <div className='text-4xl font-black text-slate-900'>500+</div>
+                <div className='text-4xl font-black text-slate-900'>200+</div>
                 <div className='text-xs uppercase tracking-tighter font-bold text-gray-500'>
                   Proyek Selesai
                 </div>
