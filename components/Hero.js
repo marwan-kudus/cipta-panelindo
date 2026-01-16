@@ -3,14 +3,14 @@ function Hero() {
 
   const slides = [
     {
-      image: '/trickle/images/box1.jpg',
+      image: '/trickle/images/panel listrik mdp.jpg',
       title: 'Ahlinya Pembuatan Box Panel Listrik',
       subtitle:
         'Solusi panel maker profesional untuk kebutuhan industri dan gedung bertingkat dengan standar keamanan tinggi.',
       cta: 'Lihat Layanan Kami',
     },
     {
-      image: '/trickle/images/box2.jpg',
+      image: '/trickle/images/box panel listrik.jpg',
       title: 'Teknisi Berpengalaman & Bersertifikat',
       subtitle:
         'Kami menjamin kualitas perakitan dan instalasi panel dengan tim teknisi yang handal dan presisi.',

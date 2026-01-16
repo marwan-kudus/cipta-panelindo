@@ -1,7 +1,7 @@
 function Projects() {
   const projects = [
     {
-      image: '/trickle/images/box1.jpg',
+      image: '/trickle/images/panel listrik mdp.jpg',
       title: 'Main Distribution Panel - MDP',
       category: 'Electrical Power Distribution',
       client: 'PT Manufaktur Maju Jaya',
@@ -13,7 +13,7 @@ function Projects() {
       client: 'PT Solo Tekstil Manufaktur',
     },
     {
-      image: '/trickle/images/box7.jpg',
+      image: '/trickle/images/automatic transfer switch.jpg',
       title: 'Automatic Transfer Switch',
       category: 'Electrical Power Management',
       client: 'Building Management System (BMS) PT Graha Indah',
