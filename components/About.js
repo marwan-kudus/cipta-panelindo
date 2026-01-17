@@ -24,7 +24,7 @@ function About() {
                     Cipta Panelindo
                   </span>{' '}
                   adalah perusahaan yang bergerak di bidang spesialis pembuatan
-                  Box Panel (Panel Maker) dan kontraktor elektrikal. Kami
+                  Panel (Panel Maker) dan kontraktor elektrikal. Kami
                   berdedikasi untuk memberikan solusi kelistrikan terbaik dengan
                   standar keamanan dan kualitas yang tinggi.
                 </p>

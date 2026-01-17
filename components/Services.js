@@ -10,7 +10,7 @@ function Services() {
       icon: 'https://images.unsplash.com/photo-1709804250377-27ce2d57209e?w=600&auto=format&fit=crop&q=60',
       title: 'Fabrikasi dan Perakitan',
       description:
-        'Pembuatan Box Panel Kustom, Pengadaan Material, Perakitan dan Pengkabelan (Wiring).',
+        'Pembuatan Panel Kustom, Pengadaan Material, Perakitan dan Pengkabelan (Wiring).',
     },
     {
       icon: 'https://plus.unsplash.com/premium_photo-1683141455361-f1420cc02b8a?w=600&auto=format&fit=crop&q=60',

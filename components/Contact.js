@@ -92,7 +92,7 @@ function Contact() {
               <div className='icon-phone text-xl'></div>
               Hubungi Sekarang
             </a>
-            <p className='mt-4 text-xs text-gray-400'>
+            <p className='mt-4 text-md text-gray-400'>
               Kami akan membalas pesan Anda secepatnya pada jam kerja.
             </p>
           </div>
